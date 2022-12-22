@@ -1,4 +1,4 @@
-# flask-app-with-kubernetes
+# Flask-app-with-Kubernetes
 
 Steps to Launch :
 
