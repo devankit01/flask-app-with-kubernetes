@@ -2,7 +2,7 @@
 
 Steps to Launch :
 
-Integrating kubernetes with flask and You can do with similarly with django and node application also. 
+Integrating kubernetes with flask and you can do similarly with django and node application also.
 
 1. Install minikube [https://minikube.sigs.k8s.io/docs/start/]  and kubectl [https://kubernetes.io/docs/tasks/tools/]
 2. minikube start
