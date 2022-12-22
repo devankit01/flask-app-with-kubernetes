@@ -1,6 +1,5 @@
 # Flask-app-with-Kubernetes
 
-Steps to Launch :
 
 Integrating kubernetes with flask and you can do similarly with django and node application also. In this integration we create docker container, pushed into your personal docker-hub account and we gonna use that image in Kuberenetes.
 
